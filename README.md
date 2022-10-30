@@ -9,5 +9,5 @@
 
 **I do not want to install .exe file on my computer, what should I do?**
 - You can install Python3, and run the Python file with terminal injection.
-*OR:*
+- **OR:**
 - Go to replit.com -> And test the file there! 🎉
